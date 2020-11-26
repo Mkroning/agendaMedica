@@ -8,13 +8,16 @@ Um bom começo: dar um git clone ou fazer download do zip!
 E mãos a obra :P 
 
 Para inicialização do projeto é necessario utilizar o comando
-  npm install
+
+    npm install
   
 Para poder rodar o mesmo, deve se usar
-  yarn dev:server
+    
+    yarn dev:server
   
 Estará disponível em:
-  localhost:3333
+
+    localhost:3333
  
 O banco de dados estava sendo hospedado no Docker Hub. 
 
